@@ -18,3 +18,11 @@ users.csv
 .ipynb_checkpoints/
 
 vk-api-saved.tar.xz
+
+lib/
+lib64*
+bin/
+share/
+include/
+pyvenv.cfg
+geckodriver.log
