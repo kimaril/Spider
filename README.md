@@ -41,4 +41,5 @@ return [user, groups, wall];
 
 4. ```python3 spider.py``` and follow the input instructions.
 
-## <center>You have to ensure you have the latest Firefox on your machine & path to the latest geckodriver in PATH variable!</center>
+
+<h1><center>You have to ensure you have the latest Firefox on your machine & path to the latest geckodriver in PATH variable!</center></h1>
