@@ -41,21 +41,4 @@ return [user, groups, wall];
 
 4. ```python3 spider.py``` and follow the input instructions.
 
-## You have to ensure you have the latest Firefox on your machine & path to the latest geckodriver in PATH variable!
-
-
-### Usefull links
-
-https://vk.com/dev/authcode_flow_user
-
-https://vk.com/dev/methods
-
-https://vk.com/dev/execute
-
-https://vk.com/dev/users
-
-https://vk.com/dev/groups
-
-https://vk.com/dev/wall
-
-https://vk.com/dev/likes 
+## <center>You have to ensure you have the latest Firefox on your machine & path to the latest geckodriver in PATH variable!</center>
